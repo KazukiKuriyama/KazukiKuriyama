@@ -1,3 +1,4 @@
+# Profile
 <p align="left">
   <a href="http://twitter.com/xamel7">
     <img height="20" src="https://img.shields.io/twitter/follow/xamel7?label=Twitter&logo=twitter" />
@@ -45,10 +46,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KazukiKuriyama&theme=algolia&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=KazukiKuriyama&show_icons=true&count_private=true&theme=algolia" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazukiKuriyama&count_private=true&theme=algolia" />
+  </a>
+</p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KazukiKuriyama&show_icons=true&count_private=true&theme=algolia" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazukiKuriyama&count_private=true&theme=algolia" />
-</a>
+[![EightProfileCode](https://github.com/KazukiKuriyama/KazukiKuriyama/assets/64897247/0b1f638e-7a75-4a1b-a7e8-3f6c2e597d39)](https://8card.net/virtual_cards/aDC8g89BIu1D4nFt0ECyCA/)
