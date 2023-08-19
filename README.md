@@ -17,7 +17,7 @@
 </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KazukiKuriyama)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KazukiKuriyama&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
