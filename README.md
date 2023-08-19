@@ -23,6 +23,9 @@
   <a href="https://note.com/kuriyama_kazuki">
     <img alt="Static Badge" src="https://img.shields.io/badge/no+e-white">
   </a>
+  <a href="https://bookmeter.com/users/1304285">
+    <img alt="Static Badge" src="https://img.shields.io/badge/読書メーター-limegreen">
+  </a>
   <a href="https://gaudiy.com/">
     <img alt="Static Badge" src="https://img.shields.io/badge/Gaudiy Inc.-orange">
   </a>
