@@ -1,5 +1,5 @@
 <p align="left">
-  <a href="https://github.com/yutkat/KazukiKuriyama/">
+  <a href="https://github.com/KazukiKuriyama/">
     <img src="https://komarev.com/ghpvc/?username=KazukiKuriyama" alt="KazukiKuriyama" />
   </a>
   <a href="http://twitter.com/xamel7">
