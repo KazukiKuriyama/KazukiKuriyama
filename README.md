@@ -18,7 +18,7 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/kazuki_kuriyama/contributions.svg" />
   </a>
   <a href="https://www.wantedly.com/id/marron">
-    <img alt="Static Badge" src="https://img.shields.io/badge/WatedlyProofile-blue">
+    <img alt="Static Badge" src="https://img.shields.io/badge/WatedlyProfile-blue">
   </a>
 </p>
 
