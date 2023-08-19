@@ -1,9 +1,9 @@
 <p align="left">
+  <a href="http://twitter.com/xamel7">
+    <img height="20" src="https://img.shields.io/twitter/follow/xamel7?label=Twitter&logo=twitter" />
+  </a>
   <a href="https://github.com/KazukiKuriyama/">
     <img src="https://komarev.com/ghpvc/?username=KazukiKuriyama" alt="KazukiKuriyama" />
-  </a>
-  <a href="http://twitter.com/xamel7">
-    <img height="20" src="https://img.shields.io/twitter/follow/xamel7?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://www.youtube.com/channel/UCpGXt3qD89vfnkjfOsQrRSA">
     <img height="20" src="https://img.shields.io/youtube/channel/views/UCpGXt3qD89vfnkjfOsQrRSA?label=Youtube&logo=Youtube&style=flat" />
