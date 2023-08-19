@@ -22,3 +22,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazukiKuriyama&count_private=true&theme=algolia" />
 </a>
+
+![348964950_273022848451750_5035935461406690150_n](https://github.com/KazukiKuriyama/KazukiKuriyama/assets/64897247/3b2ea607-e686-4a64-8bea-90bd9b152553)
