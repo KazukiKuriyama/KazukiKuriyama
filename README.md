@@ -11,7 +11,7 @@
   <a href="http://qiita.com/kazuki_kuriyama">
     <img height="20" src="https://qiita-badge.apiapi.app/s/kazuki_kuriyama/posts.svg" />
   </a>
-  <//qiita.com/kazuki_kuriyama">
+  <a href="http://qiita.com/kazuki_kuriyama">
     <img height="20" src="https://qiita-badge.apiapi.app/s/kazuki_kuriyama/contributions.svg" />
   </a>
 </p>
