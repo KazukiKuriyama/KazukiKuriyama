@@ -17,8 +17,10 @@
   <a href="http://qiita.com/kazuki_kuriyama">
     <img height="20" src="https://qiita-badge.apiapi.app/s/kazuki_kuriyama/contributions.svg" />
   </a>
+  <a href="https://www.wantedly.com/id/marron">
+    <img alt="Static Badge" src="https://img.shields.io/badge/WatedlyProofile-blue">
+  </a>
 </p>
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KazukiKuriyama&theme=algolia&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
