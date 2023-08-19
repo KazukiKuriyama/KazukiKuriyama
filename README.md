@@ -20,11 +20,14 @@
   <a href="https://www.wantedly.com/id/marron">
     <img alt="Static Badge" src="https://img.shields.io/badge/WatedlyProfile-blue">
   </a>
-  <a href="https://kyastal.com/%e3%81%8a%e5%95%8f%e3%81%84%e5%90%88%e3%82%8f%e3%81%9b/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Contact-darkblue">
-  </a>
   <a href="https://gaudiy.com/">
     <img alt="Static Badge" src="https://img.shields.io/badge/Gaudiy.inc-orange">
+  </a>
+  <a href="https://kyastal.com/%e3%81%8a%e5%95%8f%e3%81%84%e5%90%88%e3%82%8f%e3%81%9b/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/KYASTAL-darkblue">
+  </a>
+  <a href="https://kyastal.com/%e3%81%8a%e5%95%8f%e3%81%84%e5%90%88%e3%82%8f%e3%81%9b/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Contact-darkblue">
   </a>
 </p>
 
