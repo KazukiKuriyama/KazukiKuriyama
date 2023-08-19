@@ -5,6 +5,9 @@
   <a href="http://twitter.com/xamel7">
     <img height="20" src="https://img.shields.io/twitter/follow/xamel7?label=Twitter&logo=twitter&style=flat" />
   </a>
+  <a href="https://img.shields.io/youtube/channel/views/UCpGXt3qD89vfnkjfOsQrRSA">
+    <img height="20" src="https://img.shields.io/youtube/channel/views/UCpGXt3qD89vfnkjfOsQrRSA?label=Youtube&logo=Youtube&style=flat" />
+  </a>
   <a href="https://github.com/KazukiKuriyama">
     <img height="20" src="https://img.shields.io/github/followers/KazukiKuriyama?label=follow&logo=github&style=flat" />
   </a>
