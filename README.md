@@ -20,6 +20,9 @@
   <a href="https://www.wantedly.com/id/marron">
     <img alt="Static Badge" src="https://img.shields.io/badge/WatedlyProfile-blue">
   </a>
+  <a href="https://www.facebook.com/kazuki.yamada.39">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Facebook-dodgerblue">
+  </a>
   <a href="https://note.com/kuriyama_kazuki">
     <img alt="Static Badge" src="https://img.shields.io/badge/no+e-white">
   </a>
