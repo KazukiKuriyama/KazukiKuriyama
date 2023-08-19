@@ -55,4 +55,8 @@
   </a>
 </p>
 
+<br clear="all"/>
+  
+# BusinessCard
+
 [![EightProfileCode](https://github.com/KazukiKuriyama/KazukiKuriyama/assets/64897247/0b1f638e-7a75-4a1b-a7e8-3f6c2e597d39)](https://8card.net/virtual_cards/aDC8g89BIu1D4nFt0ECyCA/)
