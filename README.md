@@ -42,6 +42,9 @@ XR, Metaverse, Game applications and other system development.
   <a href="https://8card.net/virtual_cards/aDC8g89BIu1D4nFt0ECyCA">
     <img alt="Static Badge" src="https://img.shields.io/badge/Eight-white">
   </a>
+  <a href="https://connpass.com/user/Mt_Marron/">
+    <img src="https://img.shields.io/badge/Connpass-crimson">
+  </a>
   <a href="https://kyastal.com">
     <img alt="Static Badge" src="https://img.shields.io/badge/KYASTAL-darkblue">
   </a>
