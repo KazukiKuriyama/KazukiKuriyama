@@ -1,4 +1,4 @@
-# Profile
+# ProfileLink
 <p align="left">
   <a href="http://twitter.com/xamel7">
     <img height="20" src="https://img.shields.io/twitter/follow/xamel7?label=Twitter&logo=twitter" />
@@ -43,6 +43,8 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Contact-darkblue">
   </a>
 </p>
+
+# GitHubInfo
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KazukiKuriyama&theme=algolia&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
