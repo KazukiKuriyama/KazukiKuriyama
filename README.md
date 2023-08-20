@@ -36,7 +36,7 @@
   <a href="https://8card.net/virtual_cards/aDC8g89BIu1D4nFt0ECyCA">
     <img alt="Static Badge" src="https://img.shields.io/badge/Eight-white">
   </a>
-  <a href="https://kyastal.com/%e3%81%8a%e5%95%8f%e3%81%84%e5%90%88%e3%82%8f%e3%81%9b/">
+  <a href="https://kyastal.com">
     <img alt="Static Badge" src="https://img.shields.io/badge/KYASTAL-darkblue">
   </a>
   <a href="https://kyastal.com/%e3%81%8a%e5%95%8f%e3%81%84%e5%90%88%e3%82%8f%e3%81%9b/">
@@ -62,3 +62,11 @@
 ### [Eight](https://8card.net/virtual_cards/aDC8g89BIu1D4nFt0ECyCA)
   
   [![EightProfileCode](https://github.com/KazukiKuriyama/KazukiKuriyama/assets/64897247/0b1f638e-7a75-4a1b-a7e8-3f6c2e597d39)](https://8card.net/virtual_cards/aDC8g89BIu1D4nFt0ECyCA/)
+
+# Contact
+
+### [X(Twitter)](http://twitter.com/xamel7)
+### [E-Mail](mailto:kazuki0819kazuki@gmail.com)
+### [WebSite(ContactPage)](https://kyastal.com/%e3%81%8a%e5%95%8f%e3%81%84%e5%90%88%e3%82%8f%e3%81%9b/)
+
+
