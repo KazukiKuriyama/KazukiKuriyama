@@ -36,6 +36,9 @@ XR, Metaverse, Game applications and other system development.
   <a href="https://gaudiy.com/">
     <img alt="Static Badge" src="https://img.shields.io/badge/Gaudiy Inc.-orange">
   </a>
+  <a href="https://lapras.com/public/AWP8SXT">
+    <img alt="Static Badge" src="https://img.shields.io/badge/LAPRAS-darkmagenta">
+  </a>
   <a href="https://8card.net/virtual_cards/aDC8g89BIu1D4nFt0ECyCA">
     <img alt="Static Badge" src="https://img.shields.io/badge/Eight-white">
   </a>
