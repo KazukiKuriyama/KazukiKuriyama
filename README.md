@@ -1,5 +1,5 @@
 # Job
-Development of XR, Metaverse, and game applications.
+XR, Metaverse, Game applications and other system development.
 
 # ProfileLink
 <p align="left">
