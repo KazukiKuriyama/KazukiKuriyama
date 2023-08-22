@@ -1,5 +1,6 @@
 # Job
 XR, Metaverse, Game applications and other system development.
+Also working as a related technical consultants.
 
 # ProfileLink
 <p align="left">
