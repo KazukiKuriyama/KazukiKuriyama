@@ -51,7 +51,7 @@ Also working as a related technical consultants.
   </a>
   <a href="https://kyastal.com/%e3%81%8a%e5%95%8f%e3%81%84%e5%90%88%e3%82%8f%e3%81%9b/">
     <img alt="Static Badge" src="https://img.shields.io/badge/Contact-darkblue">
-  </a>>
+  </a>
   <a href="https://unityroom.com/users/zhtlio9w0bxen4mr52cs">
     <img alt="Static Badge" src="https://img.shields.io/badge/Unity Room-white">
   </a>
