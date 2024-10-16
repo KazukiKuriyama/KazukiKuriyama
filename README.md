@@ -93,6 +93,6 @@ Also working as a related technical consultants.
 
 ### [X(Twitter)](http://twitter.com/xamel7)
 ### [E-Mail](mailto:kazuki0819kazuki@gmail.com)
-### [WebSite(ContactPage)](https://kyastal.com/%e3%81%8a%e5%95%8f%e3%81%84%e5%90%88%e3%82%8f%e3%81%9b/)
+### [WebSite(ContactPage)](https://kyastal.com/contact-us/)
 
 
