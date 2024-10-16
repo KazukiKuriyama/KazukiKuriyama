@@ -1,6 +1,6 @@
 # Job
-XR, Metaverse, Game applications and other system development.
-Also working as a related technical consultants.
+As the CEO of KYASTAL, I also write code and work on XR, Metaverse, game applications, and other system development, while providing related technical consulting services.
+You can contact either my company or reach out via X for business inquiries, and I look forward to hearing from you!
 
 # ProfileLink
 <p align="left">
